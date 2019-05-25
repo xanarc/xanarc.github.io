@@ -1,0 +1,87 @@
+---
+layout: page
+title: Contact
+---
+
+<!DOCTYPE html>
+<html>
+ <style>
+    {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
+    {{ scss_sheet | scssify }}
+
+input, .text, select {
+  width: 100%;
+  padding: 10px 10px;
+  display: inline-block;
+  border: 1px solid #53AAB9;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input, .text,select {
+  width: 100%;
+  padding: 10px 20px;
+  display: inline-block;
+  border: 1px solid #53AAB9;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #0094AB;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+input[type=submit]:hover {
+  background-color: #37A8B9;
+}
+
+div {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+h2, .line {
+	color: #126978;
+  text-align: center;
+}
+
+</style>
+
+<section class = "contact">
+
+	<h2 class = "line"> I would love to hear from you! </h2>
+	<form action="https://formspree.io/xana.tenordrum@gmail.com" method="POST">
+		<div class = "list">
+			<div class="item">
+				<input class="text" type="text" name="name" placeholder="Your Name">
+			</div>				
+			<div class="item">
+				<input class="text" type="text" name="_replyto"
+			placeholder="Email Address">
+			</div>
+			<div class="item">
+				<input class="text" type="text" name="subject" placeholder="Subject"> 
+			</div>
+
+			<div class="item">
+					<textarea class="text" placeholder="Your Message" rows="10" cols="200"></textarea>
+			</div>
+			<div class="form-unit">
+				<input type="submit" class="buttonContact"  value="Send">
+			</div>
+
+		</div>
+	</form>
+	
+</section>
+
+</html>

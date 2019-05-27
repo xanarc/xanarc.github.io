@@ -8,7 +8,7 @@ description: The winding road to an engineering and some Web cool stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profileCoco.png
+picture: assets/images/cocoprofile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -38,7 +38,7 @@ disqus:
 #twitter: xaninarc
 # google: mygoogle
 instagram: xanina.rc
-pinterest: xannamorrisRC
+pinterest: xanamorrisRC
 linkedin: in/xana-morris-72b6a0a6/
 # youtube: myyoutube
 #spotify: myspotify

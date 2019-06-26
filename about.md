@@ -7,16 +7,39 @@ layout: page
 
 <h2>Xana Morris</h2>
 
+<p>Web developer HND diploma, who worked as a Web developer for a very short period of time, however 4 years as a financial applications developer in Glasgow (United Kingdom) made an excellent experience for a Software developer, combining and learning a whole ton of skill sets. </p>
 
-<p>Desarrolladora de aplicaciones web de título, que a su vez nunca a trabajado como desarrolladora Web, pero si como desarrolladora de aplicaciones financieras durante 4 años en Glasgow, Reino Unido. </p>
+<p>Spanish nationality, while growing up home used to be the unexplored beautiful land of the north of Spain, called Asturias. Full spanish personality slowly modeled by scottish kindness and patience. Slightly quieter than the spanish average citizen (or that's what I think, I guess I should prove it with references). </p>
+
+ <p>This page means a personal exercise, my target is to write about the things that keep my days busy. I'm starting the Computer engineering (distance course of 4 years), while I'll be working in Web projects.
+ This will be perfect to remember details, as I have an atrocious memory. Out of altruism, I hope my exercises can help a few people out there with similar challenges. </p>
+
+<p>My free time flies by with this facts: 
+
+<ul>
+<li>I love fine cuisine, better if healthy, and exciting if it's new stuff for me. </li>
+<li>I'm bilingual by now. </li>
+<li>I can lose track of time with a good book. </li>
+<li>I keep an eye on the cinema releases every week, but don´t enjoy crowded cinemas, so I always wait till it's almost gone.</li>
+<li>I suck at most sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! </li>
+<li>I used to play drums, and it turned out I was a fairly decent player, not without tons of effort </li>
+</ul></p>
+
+<p>Currently living in the heart of Muscat, Oman. </p>
+
+
+
+
+
+<!-- 
+
+	<p>Desarrolladora de aplicaciones web de título, que a su vez nunca a trabajado como desarrolladora Web, pero si como desarrolladora de aplicaciones financieras durante 4 años en Glasgow, Reino Unido. </p>
 
 <p>Esta página supone un ejercicio personal, mi objetivo es escribir sobre lo que va ocupando mis días. 
 Y de forma egoísta me servirá para recordar los detalles de lo que voy estudiando, ya que tengo una memoria atroz. Si de forma altruísta facilito la vida a alguien más que se enfrente a retos similares, estupendo!  </p>
 
 
 
-
-<!-- 
 <h2>Skills</h2>
 
 <ul class="skill-list">

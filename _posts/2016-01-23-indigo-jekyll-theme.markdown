@@ -1,7 +1,7 @@
 ---
 title: ":tropical_drink: Indigo, minimalist jekyll theme"
 layout: post
-date: 2016-01-23 22:10
+date: 2019-06-25 22:00
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true

@@ -56,11 +56,17 @@ h2, .line {
 
 </style>
 
+
 <section class = "contact">
+      
+      
 
 	<h2 class = "line"> I would love to hear from you! </h2>
+
 	<form action="https://formspree.io/xana.tenordrum@gmail.com" method="POST">
 		<div class = "list">
+
+      <input type="hidden" name="_next" value="{{site.url}}/thanks.html"/>
 			<div class="item">
 				<input class="text" type="text" name="name" placeholder="Your Name">
 			</div>				

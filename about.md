@@ -14,19 +14,19 @@ layout: page
  <p>This page means a personal exercise, my target is to write about the things that keep my days busy. I'm starting the Computer engineering (distance course of 4 years), while I'll be working in Web projects.
  This will be perfect to remember details, as I have an atrocious memory. Out of altruism, I hope my exercises can help a few people out there with similar challenges. </p>
 
-<p>My free time flies by with this facts: 
+<p>My free time flies by with this facts: <br>
 
-<ul>
-<li>I love fine cuisine, better if healthy, and exciting if it's new stuff for me. </li>
-<li>I'm bilingual by now. </li>
-<li>I can lose track of time with a good book. </li>
-<li>I keep an eye on the cinema releases every week, but don´t enjoy crowded cinemas, so I always wait till it's almost gone.</li>
-<li>I suck at most sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! </li>
-<li>I used to play drums, and it turned out I was a fairly decent player, not without tons of effort </li>
-</ul></p>
+*I love fine cuisine, better if healthy, and exciting if it's new stuff for me. <br>
+*I'm bilingual by now. <br>
+*I can lose track of time with a good book. <br>
+*I keep an eye on the cinema releases every week, but don´t enjoy crowded cinemas, so I always wait till it's almost gone.<br>
+*I suck at most sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! <br>
+*I used to play drums, and it turned out I was a fairly decent player, not without tons of effort. <br>
+</p>
 
 <p>Currently living in the heart of Muscat, Oman. </p>
 
+<p>Is it not an achievement yet to be the founder of The Coco-nut Code? It will be!</p>
 
 
 

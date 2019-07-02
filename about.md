@@ -9,7 +9,7 @@ layout: page
 
 <p>Web developer HND diploma, who worked as a Web developer for a very short period of time, however 4 years as a financial applications developer in Glasgow (United Kingdom) made an excellent experience for a Software developer, combining and learning a whole ton of skill sets. </p>
 
-<p>Spanish nationality, while growing up home used to be the unexplored beautiful land of the north of Spain, called Asturias. Full spanish personality slowly modeled by scottish kindness and patience. Slightly quieter than the spanish average citizen (or that's what I think, I guess I should prove it with references). </p>
+<p>Spanish nationality, while growing up, home used to be the unexplored beautiful land of the north of Spain, called Asturias. Full spanish personality slowly modeled by scottish kindness and patience. Slightly quieter than the spanish average citizen (or that's what I think, I guess I should prove it with references). </p>
 
  <p>This page means a personal exercise, my target is to write about the things that keep my days busy. I'm starting the Computer engineering (distance course of 4 years), while I'll be working in Web projects.
  This will be perfect to remember details, as I have an atrocious memory. Out of altruism, I hope my exercises can help a few people out there with similar challenges. </p>
@@ -20,13 +20,13 @@ layout: page
 *I'm bilingual by now. <br>
 *I can lose track of time with a good book. <br>
 *I keep an eye on the cinema releases every week, but don´t enjoy crowded cinemas, so I always wait till it's almost gone.<br>
-*I suck at most sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! <br>
+*I suck at sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! <br>
 *I used to play drums, and it turned out I was a fairly decent player, not without tons of effort. <br>
 </p>
 
 <p>Currently living in the heart of Muscat, Oman. </p>
 
-<p>Is it not an achievement yet to be the founder of The Coco-nut Code? It will be!</p>
+<p>Is it not an achievement yet to be the founder of The Coco-nut Code? Let´s give it time and see!</p>
 
 
 

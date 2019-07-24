@@ -9,8 +9,11 @@ tag:
 category: blog
 author: xanamorris
 description: Jekyll installation detailed guide
-hidden: true
+
 ---
+
+
+# Jekyll configuration
 
 ### Jekyll after clean installation first steps and how to set up a template.
 
@@ -61,6 +64,4 @@ This gems provides functionality through plugins and pairs this functionality al
 > [Using Gemfiles and the bundler makes dealing with different versions of plugins much easier and ensures we can have a consistent environment for our site across multiple machines.](https://learn.cloudcannon.com/jekyll/gemfiles-and-the-bundler/)
 > 
 > 
-There is a entire world of new concepts in every step of the way. I'll try to stick definitions (and of course the source). 
-> Written with [StackEdit](https://stackedit.io/).
-
+There is a entire world of new concepts in every step of the way. I'll try to stick definitions (and of course the info source). 

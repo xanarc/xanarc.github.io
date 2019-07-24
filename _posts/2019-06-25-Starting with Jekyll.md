@@ -9,11 +9,13 @@ tag:
 category: blog
 author: xanamorris
 description: Jekyll installation
-hidden: true
+
 ---
 
 
-#Let´s start with the installation then! 
+#Jekyll Installation
+
+##Let´s start with the installation then! 
 
 
 To start, you´ll need to install Ruby + devkit (easy [executable](https://rubyinstaller.org/downloads/)). I´m chosing the last version at the moment, 2.6.3 -1. Accept the license, ok, install, when you press finish the command line will open and it will keep processing the installation, you only need to sit back and relax, in a few minutes it will be done! 
@@ -40,4 +42,3 @@ And Voila!
 Can you see there are folders and files created in your folder? Very good, welcome to Jekyll. 
 
 
-> Written with [StackEdit](https://stackedit.io/).

@@ -6,11 +6,11 @@ image: /assets/images/githublogo.jpeg
 headerImage: true
 tag:
 - Github pages 
-- Jekyll
 category: blog
 disqus: true
 author: xanamorris
 description: Static website for developers with blog functionality within Github pages
+
 ---
 
 

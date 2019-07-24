@@ -1,5 +1,5 @@
 ﻿---
-title: Jekyll installation	
+title: Jekyll configuration, simple steps	
 layout: post
 date: 2019-06-26 12:00
 image: /assets/images/jekyll-logo-light-solid.png
@@ -8,7 +8,7 @@ tag:
 - Jekyll
 category: blog
 author: xanamorris
-description: Jekyll installation detailed guide
+description: Jekyll configuration detailed guide
 
 ---
 

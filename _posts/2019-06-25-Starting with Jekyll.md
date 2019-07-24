@@ -1,5 +1,5 @@
 ﻿---
-title: Jekyll installation in Windows 
+title: Jekyll installation in Windows, easy and detailed 
 layout: post
 date: 2019-06-25 15:00
 image: /assets/images/jekyllgithub.jpg
@@ -13,9 +13,9 @@ description: Jekyll installation
 ---
 
 
-#Jekyll Installation
+# Jekyll Installation
 
-##Let´s start with the installation then! 
+## Let´s start with the installation then! 
 
 
 To start, you´ll need to install Ruby + devkit (easy [executable](https://rubyinstaller.org/downloads/)). I´m chosing the last version at the moment, 2.6.3 -1. Accept the license, ok, install, when you press finish the command line will open and it will keep processing the installation, you only need to sit back and relax, in a few minutes it will be done! 

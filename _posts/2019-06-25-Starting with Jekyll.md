@@ -9,6 +9,7 @@ tag:
 category: blog
 author: xanamorris
 description: Jekyll installation
+hidden: true
 ---
 
 

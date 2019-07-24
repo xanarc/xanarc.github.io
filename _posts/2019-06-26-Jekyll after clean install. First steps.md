@@ -9,6 +9,7 @@ tag:
 category: blog
 author: xanamorris
 description: Jekyll installation detailed guide
+hidden: true
 ---
 
 ### Jekyll after clean installation first steps and how to set up a template.

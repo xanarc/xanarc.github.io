@@ -7,36 +7,33 @@ layout: page
 
 <h2>Xana Morris</h2>
 
-<p>Web developer HND diploma, who worked as a Web developer for a very short period of time, however 4 years as a financial applications developer in Glasgow (United Kingdom) made an excellent experience for a Software developer, combining and learning a whole ton of skill sets. </p>
+<p>A little personal page to showcase my portfolio, as well as to track my versatile interests <br>
+I am a Software Developer, with a HND in Web Development, and only nine subjects away from completing a Computer Engineering degree. I will be specialized in computer and networking engineering, which makes for an entire new array of strengths looking forward to be used.</p>
 
-<p>Spanish nationality, while growing up, home used to be the unexplored beautiful land of the north of Spain, called Asturias.  </p>
+<p>Bilingual spanish and english. Job hunting. If you are interested, please reach out </p>
 
- <p>This page means a personal exercise. I will be completing my Computer Engineering Degree, in which I've been working the past 3 years, while growing my family.
- </p>
 
-<p>My free time flies by with this facts: <br>
+<p> Lover of simple, good food, good music and good company<br>
 
-*I love fine cuisine, better if healthy, and exciting if it's new stuff for me. <br>
-*I'm bilingual by now. <br>
-*I can lose track of time with a good book. <br>
-*I keep an eye on the cinema releases every week. However, sewing is debunking other hobbies as the favourite these days. <br>
-*I suck at sports, but this doesn´t stop me, if I have a great time I keep insisting. Everybody is a winner! <br>
-*I used to play drums, and it turned out I was a fairly decent player, not without tons of effort. <br>
 </p>
 
-<p>Currently living in the heart of Muscat, Oman. </p>
 
-<p>Is it not an achievement yet to be the founder of The Coco-nut Code? Let´s give it time and see!</p>
-
+<p></p>
 
 
+<h2>Skills</h2>
+
+<ul class="skill-list">
+	<li>HTML - CSS</li>
+	<li> Github - Git - Jekyll</li>	
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Java</li>
+
+</ul>
 
 <!-- 
 
-	<p>Desarrolladora de aplicaciones web de título, que a su vez nunca a trabajado como desarrolladora Web, pero si como desarrolladora de aplicaciones financieras durante 4 años en Glasgow, Reino Unido. </p>
-
-<p>Esta página supone un ejercicio personal, mi objetivo es escribir sobre lo que va ocupando mis días. 
-Y de forma egoísta me servirá para recordar los detalles de lo que voy estudiando, ya que tengo una memoria atroz. Si de forma altruísta facilito la vida a alguien más que se enfrente a retos similares, estupendo!  </p>
+	
 
 
 

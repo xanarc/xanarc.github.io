@@ -13,8 +13,8 @@ picture: assets/images/cocoprofile.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://www.linkedin.com/in/xana-morris-72b6a0a6/
+resume-external: false
+resume-url: resume
 
 url: https://xanarc.github.io
 # your url: http://USERNAME.github.io

@@ -1,9 +1,9 @@
 # main text of home
 name: The coco-nut code
-bio: Learning and travelling journal
+bio: Learning and discovering journal
 
 # twitter summary info
-description: The winding road to an engineering and some Web cool stuff
+description: Bitacoras for all things tech and coding adventure
 
 # if it's an external image, update below for true
 # better with square images
@@ -56,7 +56,7 @@ github: xanarc
 author:
     xanamorris:
         name: Xana Morris
-        bio: Slow life lover, curious human being
+        bio: Slow life lover, curious by nature
         external-image: false
         picture: assets/images/XanaImage.jpg
         twitter: xanarc
